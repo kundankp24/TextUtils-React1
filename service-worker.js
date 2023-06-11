@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kundankp24/TextUtils-React/precache-manifest.1fefbb6b3c612cb2592d01670bf5295c.js"
+  "/TextUtils-React/precache-manifest.cb6f005be351bc8ee31d31211770d613.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kundankp24/TextUtils-React/index.html", {
+workbox.routing.registerNavigationRoute("/TextUtils-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
