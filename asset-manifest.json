@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils-React1/static/css/main.9552840c.chunk.css",
-  "main.js": "/TextUtils-React1/static/js/main.a4f217b1.chunk.js",
-  "main.js.map": "/TextUtils-React1/static/js/main.a4f217b1.chunk.js.map",
-  "static/js/1.444f0bc3.chunk.js": "/TextUtils-React1/static/js/1.444f0bc3.chunk.js",
-  "static/js/1.444f0bc3.chunk.js.map": "/TextUtils-React1/static/js/1.444f0bc3.chunk.js.map",
-  "static/js/2.3c016175.chunk.js": "/TextUtils-React1/static/js/2.3c016175.chunk.js",
-  "static/js/2.3c016175.chunk.js.map": "/TextUtils-React1/static/js/2.3c016175.chunk.js.map",
-  "runtime~main.js": "/TextUtils-React1/static/js/runtime~main.87e14c7e.js",
-  "runtime~main.js.map": "/TextUtils-React1/static/js/runtime~main.87e14c7e.js.map",
-  "static/css/main.9552840c.chunk.css.map": "/TextUtils-React1/static/css/main.9552840c.chunk.css.map",
-  "index.html": "/TextUtils-React1/index.html",
-  "precache-manifest.56e1157802ddb880dc189b5c1491df07.js": "/TextUtils-React1/precache-manifest.56e1157802ddb880dc189b5c1491df07.js",
-  "service-worker.js": "/TextUtils-React1/service-worker.js"
+  "main.css": "/kundankp24/TextUtils-React/static/css/main.ead24de6.chunk.css",
+  "main.js": "/kundankp24/TextUtils-React/static/js/main.cc5174e7.chunk.js",
+  "main.js.map": "/kundankp24/TextUtils-React/static/js/main.cc5174e7.chunk.js.map",
+  "runtime~main.js": "/kundankp24/TextUtils-React/static/js/runtime~main.c640a368.js",
+  "runtime~main.js.map": "/kundankp24/TextUtils-React/static/js/runtime~main.c640a368.js.map",
+  "static/js/2.46011ed8.chunk.js": "/kundankp24/TextUtils-React/static/js/2.46011ed8.chunk.js",
+  "static/js/2.46011ed8.chunk.js.map": "/kundankp24/TextUtils-React/static/js/2.46011ed8.chunk.js.map",
+  "static/js/3.f326d3da.chunk.js": "/kundankp24/TextUtils-React/static/js/3.f326d3da.chunk.js",
+  "static/js/3.f326d3da.chunk.js.map": "/kundankp24/TextUtils-React/static/js/3.f326d3da.chunk.js.map",
+  "index.html": "/kundankp24/TextUtils-React/index.html",
+  "precache-manifest.1fefbb6b3c612cb2592d01670bf5295c.js": "/kundankp24/TextUtils-React/precache-manifest.1fefbb6b3c612cb2592d01670bf5295c.js",
+  "service-worker.js": "/kundankp24/TextUtils-React/service-worker.js",
+  "static/css/main.ead24de6.chunk.css.map": "/kundankp24/TextUtils-React/static/css/main.ead24de6.chunk.css.map"
 }
