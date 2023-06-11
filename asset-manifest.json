@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils-React/static/css/main.ead24de6.chunk.css",
-  "main.js": "/TextUtils-React/static/js/main.cc5174e7.chunk.js",
-  "main.js.map": "/TextUtils-React/static/js/main.cc5174e7.chunk.js.map",
-  "runtime~main.js": "/TextUtils-React/static/js/runtime~main.e03273e9.js",
-  "runtime~main.js.map": "/TextUtils-React/static/js/runtime~main.e03273e9.js.map",
-  "static/js/2.46011ed8.chunk.js": "/TextUtils-React/static/js/2.46011ed8.chunk.js",
-  "static/js/2.46011ed8.chunk.js.map": "/TextUtils-React/static/js/2.46011ed8.chunk.js.map",
-  "static/js/3.f326d3da.chunk.js": "/TextUtils-React/static/js/3.f326d3da.chunk.js",
-  "static/js/3.f326d3da.chunk.js.map": "/TextUtils-React/static/js/3.f326d3da.chunk.js.map",
-  "index.html": "/TextUtils-React/index.html",
-  "precache-manifest.cb6f005be351bc8ee31d31211770d613.js": "/TextUtils-React/precache-manifest.cb6f005be351bc8ee31d31211770d613.js",
-  "service-worker.js": "/TextUtils-React/service-worker.js",
-  "static/css/main.ead24de6.chunk.css.map": "/TextUtils-React/static/css/main.ead24de6.chunk.css.map"
+  "files": {
+    "main.css": "/TextUtils-React/static/css/main.073c9b0a.css",
+    "main.js": "/TextUtils-React/static/js/main.9fa39c6a.js",
+    "static/js/787.dad5f5a2.chunk.js": "/TextUtils-React/static/js/787.dad5f5a2.chunk.js",
+    "index.html": "/TextUtils-React/index.html",
+    "main.073c9b0a.css.map": "/TextUtils-React/static/css/main.073c9b0a.css.map",
+    "main.9fa39c6a.js.map": "/TextUtils-React/static/js/main.9fa39c6a.js.map",
+    "787.dad5f5a2.chunk.js.map": "/TextUtils-React/static/js/787.dad5f5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9fa39c6a.js"
+  ]
 }
